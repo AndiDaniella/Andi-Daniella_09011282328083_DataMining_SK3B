@@ -105,3 +105,18 @@ Berikut penjelasan dari hasil analisis dataset berdasarkan statistik deskriptif:
 <h2>3. Korelasi Pada Dataset </h2>
 <img src="https://github.com/user-attachments/assets/68a61800-0eb0-437a-8b8a-e20f699f7008" width=500/>
 
+<h2>4. Visualisasi Data</h2>
+<h3>4.1. Histogram</h3>
+<img src="https://github.com/user-attachments/assets/586225e6-4e70-441f-a725-7a7a2e75f99b" width=500/>
+  
+<h3>4.2. Box Plot</h3>
+<img src="https://github.com/user-attachments/assets/5fe05318-dc8c-48b3-85d6-b70c929f7f96" width=500/> 
+<img src="https://github.com/user-attachments/assets/9d7e9536-db16-4704-b199-0a768fc3e72a" width=500/>
+<img src="https://github.com/user-attachments/assets/b650fc7d-24cb-4712-91d2-f5955da8c89a" width=300/> 
+
+<h3>4.3. Scatter Plot</h3>
+
+
+<h2>5. Kesimpulan</h2>
+<p> Berdasarkan analisis statistik deskriptif yang dilakukan, data menunjukkan bahwa variabel seperti Glucose, BloodPressure, dan Insulin memiliki rentang yang luas dengan deviasi standar dan varian yang tinggi, menandakan adanya variasi yang signifikan di antara nilai-nilai tersebut. Glucose memiliki rata-rata yang lebih tinggi dibandingkan dengan median, menunjukkan distribusi yang condong ke kanan, sementara BloodPressure dan Insulin menunjukkan distribusi yang cukup berbeda antara mean dan median. Selain itu, variabel seperti SkinThickness dan Insulin menunjukkan skewness yang tinggi, menunjukkan adanya kemungkinan outlier atau distribusi yang tidak simetris.</p>
+<p> Kurtosis yang tinggi pada variabel Insulin dan BloodPressure mengindikasikan bahwa distribusi dari kedua variabel ini lebih tajam di pusatnya dibandingkan dengan distribusi normal, menandakan adanya banyak nilai ekstrem. Di sisi lain, variabel seperti Age dan Outcome menunjukkan distribusi yang lebih mendekati normal dengan kurtosis yang mendekati nol atau sedikit positif. Hasil ini memberikan wawasan penting dalam memahami karakteristik distribusi data, yang dapat mempengaruhi analisis lebih lanjut dan pengembangan model prediktif.</p>
