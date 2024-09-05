@@ -90,7 +90,7 @@ Berikut penjelasan dari hasil analisis dataset berdasarkan statistik deskriptif:
 
 ### 2.6 Skewness
 - **Pregnancies**: Nilai skewness sebesar 0.90 menunjukkan distribusi jumlah kehamilan miring ke kanan (lebih banyak sampel dengan kehamilan rendah).
-- **Glucose**: Skewness 0.17 menunjukkan distribusi glukosa sedikit miring ke kanan.
+- **Glucose**: Skewness 0.17 menunjukkan distribusi glukosa sedikit miring ke kanan..
 - **BloodPressure**: Skewness -1.84 menunjukkan distribusi tekanan darah diastolik sangat miring ke kiri (lebih banyak tekanan darah rendah).
 - **SkinThickness**: Skewness 0.11 menunjukkan distribusi ketebalan kulit hampir simetris.
 - **Insulin**: Skewness 2.27 menunjukkan distribusi insulin sangat miring ke kanan, menunjukkan banyak sampel dengan kadar insulin rendah.
