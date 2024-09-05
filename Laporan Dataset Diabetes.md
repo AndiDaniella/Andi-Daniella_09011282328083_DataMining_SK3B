@@ -115,7 +115,9 @@ Berikut penjelasan dari hasil analisis dataset berdasarkan statistik deskriptif:
 <img src="https://github.com/user-attachments/assets/b650fc7d-24cb-4712-91d2-f5955da8c89a" width=300/> 
 
 <h3>4.3. Scatter Plot</h3>
-
+<img src="https://github.com/user-attachments/assets/ba14498b-3175-4bc7-aaca-323de073258b" width=500/>
+<img src="https://github.com/user-attachments/assets/374e5606-4193-40b4-998d-65a1bdff1db6" width=500/>
+<img src="https://github.com/user-attachments/assets/46567bd8-40db-4849-9b40-32ef91c9e112" width=500/>
 
 <h2>5. Kesimpulan</h2>
 <p> Berdasarkan analisis statistik deskriptif yang dilakukan, data menunjukkan bahwa variabel seperti Glucose, BloodPressure, dan Insulin memiliki rentang yang luas dengan deviasi standar dan varian yang tinggi, menandakan adanya variasi yang signifikan di antara nilai-nilai tersebut. Glucose memiliki rata-rata yang lebih tinggi dibandingkan dengan median, menunjukkan distribusi yang condong ke kanan, sementara BloodPressure dan Insulin menunjukkan distribusi yang cukup berbeda antara mean dan median. Selain itu, variabel seperti SkinThickness dan Insulin menunjukkan skewness yang tinggi, menunjukkan adanya kemungkinan outlier atau distribusi yang tidak simetris.</p>
